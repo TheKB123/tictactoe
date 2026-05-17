@@ -1,0 +1,19 @@
+td {
+    border: solid 2px black;
+    height: 30px;
+    width: 30px;
+}
+td button {
+    background: transparent;
+    border: transparent;
+    width: inherit;
+    height: inherit;
+}
+.GameInterface {
+    display: flex;
+    height: 120px;
+    width: 90px;
+}
+h3 {
+    text-size-adjust: inherit();
+}
